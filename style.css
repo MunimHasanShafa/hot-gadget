@@ -1,0 +1,44 @@
+.container{
+    margin-bottom: 100px;
+}
+#nav-hot{
+    margin-top: 50px;
+}
+
+.buy-now{
+    background-image: linear-gradient(to bottom, black, black);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+#see-all{
+    color: orange;
+}
+
+.card-images{
+    
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.categories{
+    text-align: center;
+}
+
+.images-cat{
+    border: none;
+    border-radius: 10px;
+    padding: 50px 50px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+#pale-order{
+    
+}
